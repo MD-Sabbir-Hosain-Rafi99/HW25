@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+    --color-primaryColor: #5956E8;
+    --spacing-container: 1170px; 
+     /* Font Family */
+    --font-inter: "Inter", "sans-serif";
+     /* Font Family */
+     /* Rounded */
+     --radius-10: 10px;
+     /* Rounded */
+  }
