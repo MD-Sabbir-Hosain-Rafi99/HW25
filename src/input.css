@@ -2,6 +2,7 @@
 
 @theme {
     --color-primaryColor: #5956E8;
+    --color-paragraph: #181818;
     --spacing-container: 1170px; 
      /* Font Family */
     --font-inter: "Inter", "sans-serif";
@@ -12,4 +13,7 @@
      /* Line Height */
      --spacing-lineHeight: 80px; 
      /* Line Height */
+     /* Box Shadow */
+     --shadow-boxShadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+     /* Box Shadow */
   }
