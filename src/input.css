@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@plugin "daisyui";
 @theme {
     --color-primaryColor: #5956E8;
     --color-paragraph: #181818;
@@ -15,5 +15,9 @@
      /* Line Height */
      /* Box Shadow */
      --shadow-boxShadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+
+     /* We Care About Our Customer Experience Too */
+     --shadow-profileShadow: 0px 0px 12px -5px rgba(0,0,0,0.75);
+     /* We Care About Our Customer Experience Too */
      /* Box Shadow */
   }
